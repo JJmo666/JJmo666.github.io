@@ -4,6 +4,54 @@
 
     
   <url>
+    <loc>http://jjmo666.gitee.io/%E5%B7%A5%E5%85%B7/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html</loc>
+    <lastmod>2018-08-23T07:30:45.080Z</lastmod>
+    <data>
+        <display>
+        <title>hexo搭建博客</title>
+        <pubTime>2018-07-23T07:28:48.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+        <tag>博客</tag>
+         
+        <tag>github</tag>
+         
+         
+           
+             
+              <breadCrumb title="工具" url="http://jjmo666.gitee.io/categories/%E5%B7%A5%E5%85%B7/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://jjmo666.gitee.io/Linux/%E8%A7%A3%E5%86%B3xshell%E8%BF%9E%E6%8E%A5Ubuntu%E8%80%81%E6%96%AD%E7%9A%84%E9%97%AE%E9%A2%98.html</loc>
+    <lastmod>2018-08-23T07:26:17.905Z</lastmod>
+    <data>
+        <display>
+        <title>解决xshell连接Ubuntu老断的问题</title>
+        <pubTime>2018-08-23T07:24:11.000Z</pubTime>
+        
+        <tag>ubuntu</tag>
+         
+        <tag>linux</tag>
+         
+        <tag>xshell</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="http://jjmo666.gitee.io/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://jjmo666.gitee.io/Linux/centos%E5%AE%89%E8%A3%85python3.html</loc>
     <lastmod>2018-08-22T09:16:50.759Z</lastmod>
     <data>
@@ -11,9 +59,9 @@
         <title>centos安装python3</title>
         <pubTime>2018-06-29T08:37:05.000Z</pubTime>
         
-        <tag>python3</tag>
-         
         <tag>cengtos</tag>
+         
+        <tag>python3</tag>
          
          
            
