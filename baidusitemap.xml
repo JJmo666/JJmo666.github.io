@@ -4,6 +4,28 @@
 
     
   <url>
+    <loc>http://jjmo666.gitee.io/Linux/centos%E5%AE%89%E8%A3%85python3.html</loc>
+    <lastmod>2018-08-23T07:37:27.495Z</lastmod>
+    <data>
+        <display>
+        <title>centos安装python3</title>
+        <pubTime>2018-06-29T08:37:05.000Z</pubTime>
+        
+        <tag>cengtos</tag>
+         
+        <tag>python3</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="http://jjmo666.gitee.io/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://jjmo666.gitee.io/%E5%B7%A5%E5%85%B7/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html</loc>
     <lastmod>2018-08-23T07:30:45.080Z</lastmod>
     <data>
@@ -40,28 +62,6 @@
         <tag>linux</tag>
          
         <tag>xshell</tag>
-         
-         
-           
-             
-              <breadCrumb title="Linux" url="http://jjmo666.gitee.io/categories/Linux/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://jjmo666.gitee.io/Linux/centos%E5%AE%89%E8%A3%85python3.html</loc>
-    <lastmod>2018-08-22T09:16:50.759Z</lastmod>
-    <data>
-        <display>
-        <title>centos安装python3</title>
-        <pubTime>2018-06-29T08:37:05.000Z</pubTime>
-        
-        <tag>cengtos</tag>
-         
-        <tag>python3</tag>
          
          
            
