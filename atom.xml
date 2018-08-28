@@ -5,9 +5,9 @@
   <subtitle>Python学习笔记和乱七八糟的问题</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://jjmo666.gitee.io/"/>
+  <link href="www.jjmo.top/"/>
   <updated>2018-08-23T07:26:17.905Z</updated>
-  <id>http://jjmo666.gitee.io/</id>
+  <id>www.jjmo.top/</id>
   
   <author>
     <name>姜国余</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>解决xshell连接Ubuntu老断的问题</title>
-    <link href="http://jjmo666.gitee.io/Linux/%E8%A7%A3%E5%86%B3xshell%E8%BF%9E%E6%8E%A5Ubuntu%E8%80%81%E6%96%AD%E7%9A%84%E9%97%AE%E9%A2%98.html"/>
-    <id>http://jjmo666.gitee.io/Linux/解决xshell连接Ubuntu老断的问题.html</id>
+    <link href="www.jjmo.top/2018/08/23/%E8%A7%A3%E5%86%B3xshell%E8%BF%9E%E6%8E%A5Ubuntu%E8%80%81%E6%96%AD%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <id>www.jjmo.top/2018/08/23/解决xshell连接Ubuntu老断的问题/</id>
     <published>2018-08-23T07:24:11.000Z</published>
     <updated>2018-08-23T07:26:17.905Z</updated>
     
@@ -34,21 +34,21 @@
     
     </summary>
     
-      <category term="Linux" scheme="http://jjmo666.gitee.io/categories/Linux/"/>
+      <category term="Linux" scheme="www.jjmo.top/categories/Linux/"/>
     
     
-      <category term="ubuntu" scheme="http://jjmo666.gitee.io/tags/ubuntu/"/>
+      <category term="ubuntu" scheme="www.jjmo.top/tags/ubuntu/"/>
     
-      <category term="linux" scheme="http://jjmo666.gitee.io/tags/linux/"/>
+      <category term="linux" scheme="www.jjmo.top/tags/linux/"/>
     
-      <category term="xshell" scheme="http://jjmo666.gitee.io/tags/xshell/"/>
+      <category term="xshell" scheme="www.jjmo.top/tags/xshell/"/>
     
   </entry>
   
   <entry>
     <title>hexo搭建博客</title>
-    <link href="http://jjmo666.gitee.io/%E5%B7%A5%E5%85%B7/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2.html"/>
-    <id>http://jjmo666.gitee.io/工具/hexo搭建博客.html</id>
+    <link href="www.jjmo.top/2018/07/23/hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>www.jjmo.top/2018/07/23/hexo搭建博客/</id>
     <published>2018-07-23T07:28:48.000Z</published>
     <updated>2018-08-23T07:30:45.080Z</updated>
     
@@ -64,21 +64,21 @@
     
     </summary>
     
-      <category term="工具" scheme="http://jjmo666.gitee.io/categories/%E5%B7%A5%E5%85%B7/"/>
+      <category term="工具" scheme="www.jjmo.top/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="hexo" scheme="http://jjmo666.gitee.io/tags/hexo/"/>
+      <category term="hexo" scheme="www.jjmo.top/tags/hexo/"/>
     
-      <category term="博客" scheme="http://jjmo666.gitee.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="www.jjmo.top/tags/%E5%8D%9A%E5%AE%A2/"/>
     
-      <category term="github" scheme="http://jjmo666.gitee.io/tags/github/"/>
+      <category term="github" scheme="www.jjmo.top/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>切片的索引探究</title>
-    <link href="http://jjmo666.gitee.io/python3/%E5%88%87%E7%89%87.html"/>
-    <id>http://jjmo666.gitee.io/python3/切片.html</id>
+    <link href="www.jjmo.top/2018/07/19/%E5%88%87%E7%89%87/"/>
+    <id>www.jjmo.top/2018/07/19/切片/</id>
     <published>2018-07-19T10:27:31.000Z</published>
     <updated>2018-08-22T08:54:01.247Z</updated>
     
@@ -94,17 +94,17 @@
     
     </summary>
     
-      <category term="python3" scheme="http://jjmo666.gitee.io/categories/python3/"/>
+      <category term="python3" scheme="www.jjmo.top/categories/python3/"/>
     
     
-      <category term="python3" scheme="http://jjmo666.gitee.io/tags/python3/"/>
+      <category term="python3" scheme="www.jjmo.top/tags/python3/"/>
     
   </entry>
   
   <entry>
     <title>字符串列表元组字典集合</title>
-    <link href="http://jjmo666.gitee.io/python3/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%88%97%E8%A1%A8%E5%AD%97%E5%85%B8%E9%9B%86%E5%90%88.html"/>
-    <id>http://jjmo666.gitee.io/python3/字符串列表字典集合.html</id>
+    <link href="www.jjmo.top/2018/07/12/%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%88%97%E8%A1%A8%E5%AD%97%E5%85%B8%E9%9B%86%E5%90%88/"/>
+    <id>www.jjmo.top/2018/07/12/字符串列表字典集合/</id>
     <published>2018-07-12T14:14:34.000Z</published>
     <updated>2018-07-19T10:26:18.201Z</updated>
     
@@ -119,17 +119,17 @@
     
     </summary>
     
-      <category term="python3" scheme="http://jjmo666.gitee.io/categories/python3/"/>
+      <category term="python3" scheme="www.jjmo.top/categories/python3/"/>
     
     
-      <category term="python3" scheme="http://jjmo666.gitee.io/tags/python3/"/>
+      <category term="python3" scheme="www.jjmo.top/tags/python3/"/>
     
   </entry>
   
   <entry>
     <title>centos安装python3</title>
-    <link href="http://jjmo666.gitee.io/Linux/centos%E5%AE%89%E8%A3%85python3.html"/>
-    <id>http://jjmo666.gitee.io/Linux/centos安装python3.html</id>
+    <link href="www.jjmo.top/2018/06/29/centos%E5%AE%89%E8%A3%85python3/"/>
+    <id>www.jjmo.top/2018/06/29/centos安装python3/</id>
     <published>2018-06-29T08:37:05.000Z</published>
     <updated>2018-08-23T07:37:27.495Z</updated>
     
@@ -144,12 +144,12 @@
     
     </summary>
     
-      <category term="Linux" scheme="http://jjmo666.gitee.io/categories/Linux/"/>
+      <category term="Linux" scheme="www.jjmo.top/categories/Linux/"/>
     
     
-      <category term="cengtos" scheme="http://jjmo666.gitee.io/tags/cengtos/"/>
+      <category term="cengtos" scheme="www.jjmo.top/tags/cengtos/"/>
     
-      <category term="python3" scheme="http://jjmo666.gitee.io/tags/python3/"/>
+      <category term="python3" scheme="www.jjmo.top/tags/python3/"/>
     
   </entry>
   
