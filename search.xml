@@ -3,6 +3,27 @@
   
     
     <entry>
+      <title>ls-l命令详解</title>
+      <link href="/ls-l%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.html"/>
+      <url>/ls-l%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.html</url>
+      <content type="html"><![CDATA[<h4 id="Linux-ls-l-命令详解"><a href="#Linux-ls-l-命令详解" class="headerlink" title="Linux  ls - l 命令详解"></a>Linux  ls - l 命令详解</h4><p>drwxr-xr-x. 4 jjmo jjmo 65 8月   7 16:40 bin</p><table><thead><tr><th style="text-align:center">d</th><th style="text-align:center">rwx</th><th style="text-align:center">r-x</th><th style="text-align:center">r-x</th><th style="text-align:center">4</th><th style="text-align:center">jjmo</th><th style="text-align:center">jjmo</th><th style="text-align:center">65</th><th style="text-align:center">8月   7 16:40</th><th style="text-align:center">bin</th></tr></thead><tbody><tr><td style="text-align:center">①</td><td style="text-align:center">②</td><td style="text-align:center">③</td><td style="text-align:center">④</td><td style="text-align:center">⑤</td><td style="text-align:center">⑥</td><td style="text-align:center">⑦</td><td style="text-align:center">⑧</td><td style="text-align:center">⑨</td><td style="text-align:center">⑩</td></tr></tbody></table><p>①：文件类型</p><p>​    -  普通文件</p><p>​    d 目录文件</p><p>​    p 管道文件</p><p>​    l 链接文件</p><p>​    b 块设备文件</p><p>​    c 字符设备文件</p><p>​    s 套接字文件</p><p>②：所有者权限</p><p>③：组用户权限</p><p>④：其他用户权限（除去所有者的组以外的组用户）</p><p>​    普通文件权限</p><p>​        r：可读取文件的实际内容</p><p>​        w：可编辑、新增、修改该文件的实际内容</p><p>​        x：可被执行</p><p>​        - ：无权限</p><p>​    目录文件权限</p><p>​        r：可读取目录结构和权限</p><p>​        w：可更改目录结构列表、新建、删除、重命名、转移子文件、目录</p><p>​        x：表示用户可进入到该目录中</p><p>​        - ：无权限</p><p>⑤：普通文件 – 链接数</p><p>​    目录文件 – 第一级子目录个数（包括隐藏目录）</p><p>⑥：用户名</p><p>⑦：组名</p><p>⑧：文件大小（单位：字节）</p><p>⑨：文件最后修改时间</p><p>⑩：文件名</p>]]></content>
+      
+      <categories>
+          
+          <category> Linux </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> linux </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>解决xshell连接Ubuntu老断的问题</title>
       <link href="/%E8%A7%A3%E5%86%B3xshell%E8%BF%9E%E6%8E%A5Ubuntu%E8%80%81%E6%96%AD%E7%9A%84%E9%97%AE%E9%A2%98.html"/>
       <url>/%E8%A7%A3%E5%86%B3xshell%E8%BF%9E%E6%8E%A5Ubuntu%E8%80%81%E6%96%AD%E7%9A%84%E9%97%AE%E9%A2%98.html</url>
@@ -17,9 +38,9 @@
       
         <tags>
             
-            <tag> ubuntu </tag>
-            
             <tag> linux </tag>
+            
+            <tag> ubuntu </tag>
             
             <tag> xshell </tag>
             

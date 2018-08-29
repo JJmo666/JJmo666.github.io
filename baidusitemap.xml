@@ -4,6 +4,26 @@
 
     
   <url>
+    <loc>www.jjmo.top/ls-l%E5%91%BD%E4%BB%A4%E8%AF%A6%E8%A7%A3.html</loc>
+    <lastmod>2018-08-29T12:36:33.319Z</lastmod>
+    <data>
+        <display>
+        <title>ls-l命令详解</title>
+        <pubTime>2018-08-29T12:32:12.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="Linux" url="www.jjmo.top/categories/Linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>www.jjmo.top/centos%E5%AE%89%E8%A3%85python3.html</loc>
     <lastmod>2018-08-23T07:37:27.495Z</lastmod>
     <data>
@@ -57,9 +77,9 @@
         <title>解决xshell连接Ubuntu老断的问题</title>
         <pubTime>2018-08-23T07:24:11.000Z</pubTime>
         
-        <tag>ubuntu</tag>
-         
         <tag>linux</tag>
+         
+        <tag>ubuntu</tag>
          
         <tag>xshell</tag>
          
